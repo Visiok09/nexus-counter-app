@@ -4,7 +4,7 @@
 Alphamint is a multichain NFT marketplace designed to provide users with a seamless experience for minting, buying, and selling NFTs. Powered by blockchain technology, it ensures secure and transparent transactions.
 
 ## Contract Address
-[View on Nexus Explorer](https://explorer.nexus.xyz/address/0x991aB93a97964aD5AD4De67cd9C88a7c2C53e66a/)
+[View on Nexus Explorer](https://explorer.nexus.xyz/address/0x6692A9c7dA00230330820Ae83602AE76661E9ecd/)
 
 ## Link to DApp
 [Access the Alphamint Marketplace](https://nexus.alphamint.space/)
